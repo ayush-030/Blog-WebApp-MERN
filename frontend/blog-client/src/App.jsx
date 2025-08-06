@@ -5,7 +5,7 @@ import CreatePost from './components/CreatePost';
 import PostDetail from './components/PostDetail';
 import EditPost from './components/EditPost';
 
-const API_URL = 'http://localhost:5000/api/posts';
+const API_URL = 'https://my-mern-blog-backend.onrender.com';
 
 function App() {
   const [posts, setPosts] = useState([]);
