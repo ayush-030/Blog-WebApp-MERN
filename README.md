@@ -1,27 +1,39 @@
-# 📝 Blog WebApp (MERN Stack)
+# 📝 Pixel Pages
 
-A full-stack blog web application built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
-
-## 🚀 Features (Planned)
-- User authentication (signup/login)
-- Create, edit, delete blog posts
-- Like and comment on posts
-- Rich text editor for blogs
-- Responsive design
-
-## 🛠️ Tech Stack
-- **Frontend**: React.js, Tailwind CSS (optional)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose
-
-## 📁 Folder Structure (Coming Soon)
-> Will update as the project develops.
-
-## 🔧 Setup Instructions
-> Instructions to run the project will be added after development begins.
+**Pixel Pages** is a full-stack blog application built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It allows users to create, read, update, and delete blog posts through an elegant and responsive interface. The frontend is developed using **React + Vite** and styled with **Tailwind CSS** to provide a smooth and modern user experience.
 
 ---
 
-## ✍️ Author
-**Ayush Rawat**  
-[GitHub](https://github.com/ayush-030) | [LinkedIn](https://www.linkedin.com/in/ayushrawat20/)
+## ✨ Features
+
+- 📝 **Create Posts** – Easily add new blog posts with title, author name, and content.
+- 📚 **View All Posts** – See a list of all available blog entries.
+- 🔍 **View Single Post** – Click to view full content in detail.
+- ✏️ **Edit Posts** – Modify existing posts via a pre-filled form.
+- 🗑️ **Delete Posts** – Remove blog posts from the list.
+- 📱 **Responsive Design** – Looks great on mobile, tablet, and desktop using Tailwind CSS.
+
+---
+
+## 🚀 Technologies Used
+
+### 🔧 Backend
+- **Node.js** – JavaScript runtime.
+- **Express.js** – Web framework for Node.
+- **MongoDB** – NoSQL database.
+- **Mongoose** – ODM for MongoDB.
+- **cors** – Middleware for CORS.
+- **dotenv** – Manage environment variables.
+
+### 🎨 Frontend
+- **React** – JavaScript library for building UIs.
+- **Vite** – Fast development build tool.
+- **Tailwind CSS** – Utility-first CSS framework.
+- **Axios** – HTTP client for API calls.
+
+### 🗄️ Database
+- **MongoDB Atlas** – Cloud-based MongoDB hosting.
+
+### 🌍 Deployment
+- **Render** – Deploy Node/Express backend.
+- **Vercel** – Deploy React + Vite frontend.
